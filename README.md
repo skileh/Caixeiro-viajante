@@ -1,4 +1,4 @@
-# Caxeiro-viajante
+# Caixeiro-viajante
 
 O Problema do Caixeiro Viajante é um problema que tenta determinar a menor rota para percorrer 
 uma série de cidades, retornando à cidade de origem.
